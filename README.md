@@ -50,7 +50,7 @@ git clone https://github.com/eliana-eml/rest-jdbc-project-cadastro-de-produtos
 
 <br>
 
-<p align="center">3) A seguir você irá abrir o arquivo nota-fiscal.sql no seu MySQL Workbench e em seguida clicar no botão de raio para que ele crie o banco de dados e as tabelas respectivamente.</p>
+<p align="center">3) A seguir você irá abrir o arquivo produtos.sql no seu MySQL Workbench e em seguida clicar no botão de raio para que ele crie o banco de dados e as tabelas respectivamente.</p>
 
 > **IMG**
 
